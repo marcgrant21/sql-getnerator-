@@ -1,5 +1,7 @@
 fh=open('project_3.sql','w')
 #fh=fh.rstrip("\n")
+
+
 from faker import Faker 
 
 rec=500000
